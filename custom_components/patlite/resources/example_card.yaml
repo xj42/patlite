@@ -1,0 +1,10 @@
+# Example Picture Glance
+type: picture-glance
+title: Patlite Tower
+image: /local/logo.png      # or /local/tower.gif for animation
+entities:
+  - light.patlite_tier_1
+  - light.patlite_tier_2
+  - light.patlite_tier_3
+  - switch.patlite_flash
+  - switch.patlite_buzzer
