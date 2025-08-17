@@ -14,5 +14,10 @@
     "light",
     "switch",
     "select"
+  ],
+  "dhcp": [
+    {
+      "macaddress": "80:39:E5:*:*:*"
+    }
   ]
 }
